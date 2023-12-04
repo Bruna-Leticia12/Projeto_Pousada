@@ -6,7 +6,7 @@
 
 ### Como Iniciar a Aplicação
 - Abrir a pasta onde está localizado o projeto dentro da IDE.
-- Clicar no icone 'Run' (seta verde, no canto superior direito).
+- Clicar no ícone 'Run' (seta verde, no canto superior direito).
 
 ### Como Utilizar (Usuário final)
 - Ao iniciar a aplicação o menu principal será apresentado, ele foi projetado para oferecer uma experiência simples e intuitiva aos usuários.
