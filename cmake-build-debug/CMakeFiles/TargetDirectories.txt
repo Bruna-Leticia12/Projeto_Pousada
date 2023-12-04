@@ -1,0 +1,3 @@
+/home/bru-leticia/CLionProjects/linguaguem-de-programacao/projetoHotel/cmake-build-debug/CMakeFiles/projetoHotel.dir
+/home/bru-leticia/CLionProjects/linguaguem-de-programacao/projetoHotel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bru-leticia/CLionProjects/linguaguem-de-programacao/projetoHotel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
